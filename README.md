@@ -1,2 +1,3 @@
 # opencv
-学习opencv的遇到的基础知识
+opencv c++学习之路
+详细见博客:https://i.cnblogs.com/posts?categoryid=1125577
